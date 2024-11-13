@@ -1,5 +1,5 @@
 # credit_risk_classification
-credit-risk-classification
+
 
 ## Analysis Report
 The purpose of this exercise was to analyze lending data and build models that may help predict a borrowers' creditworthiness. Unfortunately, we do see a significant class imbalance between healthy loans (75,036) and high-risk loans (2,500), which could negatively impact our model's performance.
