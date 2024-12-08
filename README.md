@@ -1,4 +1,4 @@
-# credit_risk_classification
+# machine_learning_challenge
 
 
 ## Analysis Report
